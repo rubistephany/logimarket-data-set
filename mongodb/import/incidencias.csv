@@ -1,0 +1,13 @@
+incidencia_id,pedido_id,tipo_incidencia,severidad,fecha_incidencia,detalle
+I001,O004,retraso_transporte,media,2026-05-04,Entrega 2 días tarde en Sevilla Sur
+I002,O006,rotura_stock,alta,2026-05-04,Stock real inferior al teórico en A03 para P006
+I003,O010,retraso_transporte,media,2026-05-07,Ruta con demora en Valencia Este
+I004,O012,incidencia_sistema,media,2026-05-06,Evento duplicado en confirmación de entrega
+I005,O017,rotura_stock,alta,2026-05-08,Stock insuficiente en A03 para P005
+I006,O021,retraso_transporte,baja,2026-05-09,Retraso leve por saturación de ruta
+I007,O025,rotura_stock,alta,2026-05-10,Diferencia de inventario en A03 para P001
+I008,O029,producto_dañado,media,2026-05-11,Unidad dañada en preparación de pedido
+I009,O030,retraso_transporte,media,2026-05-11,Demora en expedición desde A04
+I010,O037,rotura_stock,alta,2026-05-13,Diferencia de stock en A03 para P001
+I011,O045,retraso_transporte,media,2026-05-15,Ruta económica con incidencias repetidas
+I012,O049,rotura_stock,alta,2026-05-16,Stock real inferior al esperado en A03
