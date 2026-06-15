@@ -1,0 +1,5 @@
+data/
+.postgres_data/
+.mongo_data/
+.neo4j_data/
+.redis_data/

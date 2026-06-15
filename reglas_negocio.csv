@@ -1,0 +1,7 @@
+regla,descripcion
+Regla 1,Un pedido está retrasado si fecha_real > fecha_prevista
+Regla 2,Hay incidencia de stock si stock_real <> stock_teorico
+Regla 3,El almacén con más retrasos esperados es A03
+Regla 4,El transportista con más pedidos retrasados esperados es T03
+Regla 5,El producto con más incidencias esperadas es P001
+Regla 6,"Todos los alumnos deben usar estas claves: pedido_id, cliente_id, producto_id, almacen_id, transportista_id"
