@@ -1,0 +1,2 @@
+#!/bin/bash
+mongoimport --host localhost --port 27017 -u admin -p admin123 --authenticationDatabase admin --db logimarket --collection incidencias --type csv --headerline --file /import/mongo_incidencias.csv
